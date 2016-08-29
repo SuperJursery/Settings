@@ -1,0 +1,2 @@
+# Settings
+just another repository
